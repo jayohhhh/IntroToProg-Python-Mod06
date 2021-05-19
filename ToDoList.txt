@@ -1,0 +1,3 @@
+dishes,low
+sweep floor,low
+wash clothes,high
